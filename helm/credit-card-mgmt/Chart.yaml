@@ -1,0 +1,4 @@
+description: A Helm chart for deployment of Credit card app on  Kubernetes
+apiVersion: v1
+name: credit-card-mgmt
+version: "1.0"
